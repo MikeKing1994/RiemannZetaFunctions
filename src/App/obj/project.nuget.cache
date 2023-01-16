@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "g4oC4xypTlJBHKTamwpRYeprrZ9EAEHAV2qkXOC284wBrd4XZ25B8jB9UnNkZnSFsgJyRo95L8iPhSFXIjONIw==",
+  "dgSpecHash": "QZU4oiCZiqm7fK+xcLLgDgPq+BI1WG+GhmFVX03CYJKKiH/Dbp1hoTAkIKRxH0Ga3Civ2/3B6MwDuwdMAGQIpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\App.fsproj",
+  "projectFilePath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\App.fsproj",
   "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\dynamicobj\\2.0.0\\dynamicobj.2.0.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\fsharp.charting\\2.1.0\\fsharp.charting.2.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+    "C:\\Users\\micha\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\plotly.net\\3.0.0\\plotly.net.3.0.0.nupkg.sha512"
   ],
   "logs": [
     {

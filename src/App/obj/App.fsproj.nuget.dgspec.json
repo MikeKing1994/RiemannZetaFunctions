@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\App.fsproj": {}
+    "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\App.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\App.fsproj": {
+    "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\App.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\App.fsproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\App.fsproj",
         "projectName": "App",
-        "projectPath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\App.fsproj",
+        "projectPath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\App.fsproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\src\\App\\obj\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\Github\\RiemannZetaFunctions\\RiemannZetaFunctions\\src\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,11 @@
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
               "version": "[7.0.0, )",
+              "generatePathProperty": true
+            },
+            "Plotly.NET": {
+              "target": "Package",
+              "version": "[3.0.0, )",
               "generatePathProperty": true
             }
           },
